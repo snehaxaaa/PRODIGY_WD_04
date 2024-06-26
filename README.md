@@ -1,7 +1,7 @@
 
 <h1>My Personal Portfolio</h1>
 <p>Welcome to my personal portfolio! This project showcases my skills, projects, and experiences.</p>
-<b>Experience  it yourself :</b><a href="https://snehakachareportfolio.netlify.app/">snehakachareportfolio.netlify.app/</a>
+<b>Experience  it yourself :</b><a href="https://snehakachareportfolio.netlify.app/">snehakachareportfolio.netlify.app</a>
 <br><br>
 
 ![live](https://github.com/snehaxaaa/PRODIGY_WD_04/assets/146460728/fe5f9f73-07d2-4f16-b95f-9408c43e3eec)
