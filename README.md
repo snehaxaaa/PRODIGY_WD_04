@@ -4,7 +4,8 @@
 <b>Experience  it yourself :</b><a href="https://snehakachareportfolio.netlify.app/">snehakachareportfolio.netlify.app</a>
 <br><br>
 
-![live](https://github.com/snehaxaaa/PRODIGY_WD_04/assets/146460728/fe5f9f73-07d2-4f16-b95f-9408c43e3eec)
+
+![Screenshot (67)](https://github.com/snehaxaaa/PRODIGY_WD_04/assets/146460728/53cc3b74-23f5-4f82-a98f-29f5d1d58175)
 
 <h2 id="features">Features</h2>
 <ul>
